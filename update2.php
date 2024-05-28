@@ -27,23 +27,16 @@
 
     //Inserir dados no banco
 
-    if (empty($_POST['razaosocial']) ||empty($_POST['nomefantasia']) || empty($_POST['email']) || empty($_POST['telefone']) || empty($_POST['cnpj']) || empty($_POST['endereco']) || empty($_POST['numero']) || empty($_POST['complemento']) || empty($_POST['bairro']) || empty($_POST['cidade']) || empty($_POST['uf']) || empty($_POST['setor'])) {
+    if (!empty($_POST['empresa']) && !empty($_POST['email']) && !empty($_POST['telefone']) && !empty($_POST['cargo']) && !empty($_POST['nome'])) {
         
         $id = $_POST['id'];
-        $razaosocial = $_POST['razaosocial'];
-        $nomefantasia = $_POST['nomefantasia'];
+        $empresa = $_POST['empresa'];
         $email = $_POST['email'];
         $telefone = $_POST['telefone'];
-        $cnpj = $_POST['cnpj'];
-        $endereco = $_POST['endereco'];
-        $numero = $_POST['numero'];
-        $complemento = $_POST['complemento'];
-        $bairro = $_POST['bairro'];
-        $cidade = $_POST['cidade'];
-        $estado = $_POST['UF'];
-        $setor = $_POST['setor'];
+        $cargo = $_POST['cargo'];
+        $nome = $_POST['nome'];
         
-        $sql = "UPDATE fornecedores SET razaosocial ='$razaosocial', nomefantasia ='$nomefantasia', email ='$email', telefone ='$telefone', cnpj ='$cnpj', endereco ='$endereco', numero ='$numero', complemento ='$complemento', bairro ='$bairro', cidade='$cidade', estado ='$estado', setor ='$setor' where id = $id";         
+        $sql = "UPDATE contratantes SET empresa ='$empresa', email ='$email', telefone ='$telefone', cargo ='$cargo', nome ='$nome' where id = $id";         
         try {
             $resultado = $conn->query($sql);
         }
@@ -65,7 +58,7 @@
         </div>
     <?php endif ?>
 
-        <a href="dados.php"> <button  type="button"> Ver fornecedores </button></a>
+        <a href="dados.php"> <button  type="button"> Ver contratantes </button></a>
     </div>
     </section>
 </body>

@@ -11,35 +11,18 @@
       <?php
         // Armazenar os dados da URL em variáveis PHP
         $id = $_GET['id'];
-        $razaosocial = $_GET['razaosocial'];
-        $nomefantasia = $_GET['nomefantasia'];
+        $empresa = $_GET['empresa'];
         $email = $_GET['email'];
         $telefone = $_GET['telefone'];
-        $cnpj = $_GET['cnpj'];
-        $endereco = $_GET['endereco'];
-        $numero = $_GET['numero'];
-        $complemento = $_GET['complemento'];
-        $bairro = $_GET['bairro'];
-        $cidade = $_GET['cidade'];
-        $uf = $_GET['uf'];
-        $setor = $_GET['setor'];
-
-        // Função para verificar se o sexo é feminino, masculino ou outro
-        function isChecked($value, $radioValue) {
-            return $value === $radioValue ? 'checked' : '';
-        }
+        $cargo = $_GET['cargo'];
+        $nome = $_GET['nome'];
       ?>
       <form method="POST" action="update2.php">
-        <h1 id="title">ATUALIZAÇÃO DE ALUNOS</h1>
+        <h1 id="title">ATUALIZAÇÃO DE CONTRATANTES</h1>
         
         <div class="input">
-          <input name="razaosocial" type="text" required="" autocomplete="off" value="<?= $razaosocial ?>">
-          <label for="razaosocial">Razão social</label>
-        </div>
-
-        <div class="input">
-          <input name="nomefantasia" type="text" required="" autocomplete="off" value="<?= $nomefantasia?>">
-          <label for="nomefantasia">Nome fantasia</label>
+          <input name="empresa" type="text" required="" autocomplete="off" value="<?= $empresa ?>">
+          <label for="empresa">Empresa</label>
         </div>
 
         <div class="input">
@@ -53,80 +36,15 @@
         </div>
 
         <div class="input" id="s2">
-          <input name="cnpj" type="text" required="" autocomplete="off" value="<?= $cnpj ?>">
-          <label for="cnpj">Cnpj</label>
+          <input name="cargo" type="text" required="" autocomplete="off" value="<?= $cargo ?>">
+          <label for="cargo">Cargo</label>
         </div>
 
 
         <div class="input" id="s2">
-          <input name="endereco" type="text" required="" autocomplete="off" value="<?= $endereco ?>">
-          <label for="endereco">Endereço</label>
+          <input name="nome" type="text" required="" autocomplete="off" value="<?= $nome ?>">
+          <label for="nome">nome</label>
         </div>
-
-        <div class="input">
-          <input name="numero" type="text" required="" autocomplete="off" value="<?= $numero ?>">
-          <label for="numero">Numero</label>
-        </div>
-
-        <div class="input">
-          <input name="complemento" type="text" required="" autocomplete="off" value="<?= $complemento ?>">
-          <label for="complemento">Complemento</label>
-        </div>
-
-        <div class="input">
-          <input name="bairro" type="text" required="" autocomplete="off" value="<?= $bairro ?>">
-          <label for="bairro">Bairro</label>
-        </div>
-
-        <div class="input">
-          <input name="cidade" type="text" required="" autocomplete="off" value="<?= $cidade ?>">
-          <label for="cidade">Cidade</label>
-        </div>
-
-        <select class="form-select" aria-label="Default select example" name="UF">
-          <option selected disabled>UF</option>
-          <option value="Rondônia" <?= $uf === 'Rondônia' ? 'selected' : '' ?>>RO</option>
-          <option value="Acre" <?= $uf === 'Acre' ? 'selected' : '' ?>>AC</option>
-          <option value="Amazonas" <?= $uf === 'Amazonas' ? 'selected' : '' ?>>AM</option>
-          <option value="Roraima" <?= $uf === 'Roraima' ? 'selected' : '' ?>>RR</option>
-          <option value="Pará" <?= $uf === 'Pará' ? 'selected' : '' ?>>PA</option>
-          <option value="Amapá" <?= $uf === 'Amapá' ? 'selected' : '' ?>>AP</option>
-          <option value="Tocantins" <?= $uf === 'Tocantins' ? 'selected' : '' ?>>TO</option>
-          <option value="Maranhão" <?= $uf === 'Maranhão' ? 'selected' : '' ?>>MA</option>
-          <option value="Piauí" <?= $uf === 'Piauí' ? 'selected' : '' ?>>PI</option>
-          <option value="Ceará" <?= $uf === 'Ceará' ? 'selected' : '' ?>>CE</option>
-          <option value="Rio Grande do Norte" <?= $uf === 'Rio Grande do Norte' ? 'selected' : '' ?>>RN</option>
-          <option value="Paraíba" <?= $uf === 'Paraíba' ? 'selected' : '' ?>>PB</option>
-          <option value="Pernambuco" <?= $uf === 'Pernambuco' ? 'selected' : '' ?>>PE</option>
-          <option value="Alagoas" <?= $uf === 'Alagoas' ? 'selected' : '' ?>>AL</option>
-          <option value="Sergipe" <?= $uf === 'Sergipe' ? 'selected' : '' ?>>SE</option>
-          <option value="Bahia" <?= $uf === 'Bahia' ? 'selected' : '' ?>>BA</option>
-          <option value="Minas Gerais" <?= $uf === 'Minas Gerais' ? 'selected' : '' ?>>MG</option>
-          <option value="Espírito Santo" <?= $uf === 'Espírito Santo' ? 'selected' : '' ?>>ES</option>
-          <option value="Rio de Janeiro" <?= $uf === 'Rio de Janeiro' ? 'selected' : '' ?>>RJ</option>
-          <option value="São Paulo" <?= $uf === 'São Paulo' ? 'selected' : '' ?>>SP</option>
-          <option value="Paraná" <?= $uf === 'Paraná' ? 'selected' : '' ?>>PR</option>
-          <option value="Santa Catarina" <?= $uf === 'Santa Catarina' ? 'selected' : '' ?>>SC</option>
-          <option value="Rio Grande do Sul" <?= $uf === 'Rio Grande do Sul' ? 'selected' : '' ?>>RS</option>
-          <option value="Mato Grosso do Sul" <?= $uf === 'Mato Grosso do Sul' ? 'selected' : '' ?>>MS</option>
-          <option value="Mato Grosso" <?= $uf === 'Mato Grosso' ? 'selected' : '' ?>>MT</option>
-          <option value="Goiás" <?= $uf === 'Goiás' ? 'selected' : '' ?>>GO</option>
-          <option value="Distrito Federal" <?= $uf === 'Distrito Federal' ? 'selected' : '' ?>>DF</option>
-        </select>
-
-        <select class="form-select" aria-label="Default select example" name="setor">
-          <option selected disabled>Setor</option>
-          <option value="Alimentação" <?= $setor === 'Alimentação' ? 'selected' : '' ?> >Alimentação</option>
-          <option value="Mobiliário" <?= $setor === 'Mobiliário' ? 'selected' : '' ?> >Mobiliário</option>
-          <option value="Equipamentos" <?= $setor === 'Equipamentos' ? 'selected' : '' ?> >Equipamentos</option>
-          <option value="Recursos humanos" <?= $setor === 'Recursos humanos' ? 'selected' : '' ?> >Recursos humanos</option>
-          <option value="Recreação" <?= $setor === 'Recreação' ? 'selected' : '' ?> >Recreação</option>
-          <option value="Artístico" <?= $setor === 'Artístico' ? 'selected' : '' ?> >Artístico</option>
-          <option value="Mídia social" <?= $setor === 'Mídia social' ? 'selected' : '' ?> >Mídia social</option>
-          <option value="Estrutura" <?= $setor === 'Estrutura' ? 'selected' : '' ?> >Estrutura</option>
-          <option value="Brindes" <?= $setor === 'Brindes' ? 'selected' : '' ?> >Brindes</option>
-          <option value="Decoração" <?= $setor === 'Decoração' ? 'selected' : '' ?> >Decoração</option>
-        </select>
 
         <button type="submit" name="submit"> Atualizar </button>
         <a href="dados.php"> <button  type="button"> Ver dados</button></a>

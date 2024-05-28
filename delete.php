@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deletar alunos</title>
+    <title>Deletar contratante</title>
 </head>
 <body>
     <section id="cardcontainer">
@@ -26,7 +26,7 @@
     //Deletar dados no banco
         
         $_id = $_GET['id'];
-        $sql =  "Delete from fornecedores where id = $_id";
+        $sql =  "Delete from contratantes where id = $_id";
         try {
             $resultado = $conn->query($sql);
         }
@@ -46,7 +46,7 @@
         </div>
     <?php endif ?>
 
-        <a href="dados.php"> <button  type="button"> Ver fornecedores</button></a>
+        <a href="dados.php"> <button  type="button"> Ver contratantes</button></a>
     </div>
     </section>
 </body>

@@ -21,29 +21,22 @@
         }
 
         //Preparei a qyery
-        $sql = "SELECT * FROM fornecedores";
+        $sql = "SELECT * FROM contratantes";
 
         //Executar a query
         $resultado = $conn->query($sql);
     ?>
     <section id="cardcontainer">
     <div class="card">
-        <h1 id="title">Fornecedores cadastrados</h1>
+        <h1 id="title">Contratantes cadastrados</h1>
         <table class="gradient-table">
             <thead>
                 <tr>
-                    <th>Razão social</th>
-                    <th>Nome Fantasia</th>
+                    <th>Empresa</th>
                     <th>E-mail</th>
                     <th>Telefone</th>
-                    <th>CNPJ</th>
-                    <th>Endereço</th>
-                    <th>Numero</th>
-                    <th>Complemento</th>
-                    <th>Bairro</th>
-                    <th>Cidade</th>
-                    <th>Estado</th>
-                    <th>Setor</th>
+                    <th>Cargo</th>
+                    <th>Nome</th>
                     <th>Alterar</th>
                     <th>Excluir</th>
                 </tr>
@@ -54,20 +47,13 @@
 
             ?>
                 <tr>
-                    <td><?php echo $linha['razaosocial'] . '<br>'; ?></td>
-                    <td><?php echo $linha['nomefantasia'] . '<br>'; ?></td>
+                    <td><?php echo $linha['empresa'] . '<br>'; ?></td>
                     <td><?php echo $linha['email'] . '<br>'; ?></td>
                     <td><?php echo $linha['telefone'] . '<br>'; ?></td>
-                    <td><?php echo $linha['cnpj'] . '<br>'; ?></td>
-                    <td><?php echo $linha['endereco'] . '<br>'; ?></td>
-                    <td><?php echo $linha['numero'] . '<br>'; ?></td>
-                    <td><?php echo $linha['complemento'] . '<br>'; ?></td>
-                    <td><?php echo $linha['bairro'] . '<br>'; ?></td>
-                    <td><?php echo $linha['cidade'] . '<br>'; ?></td>
-                    <td><?php echo $linha['estado'] . '<br>'; ?></td>
-                    <td><?php echo $linha['setor'] . '<br>'; ?></td>
+                    <td><?php echo $linha['cargo'] . '<br>'; ?></td>
+                    <td><?php echo $linha['nome'] . '<br>'; ?></td>
                     <td>
-                        <a href="update.php?id=<?=$linha['id']?>&razaosocial=<?=$linha['razaosocial']?>&nomefantasia=<?=$linha['nomefantasia']?>&email=<?=$linha['email']?>&telefone=<?=$linha['telefone']?>&cnpj=<?=$linha['cnpj']?>&endereco=<?=$linha['endereco']?>&numero=<?=$linha['numero']?>&complemento=<?=$linha['complemento']?>&bairro=<?=$linha['bairro']?>&cidade=<?=$linha['cidade']?>&uf=<?=$linha['estado']?>&setor=<?=$linha['setor']?>">
+                        <a href="update.php?id=<?=$linha['id']?>&empresa=<?=$linha['empresa']?>&email=<?=$linha['email']?>&telefone=<?=$linha['telefone']?>&cargo=<?=$linha['cargo']?>&nome=<?=$linha['nome']?>">
                             <button class="tooltip">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#6361D9" class="bi bi-pencil" viewBox="0 0 16 16">
                                     <path d="M12.146.146a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-10 10a.5.5 0 0 1-.168.11l-5 2a.5.5 0 0 1-.65-.65l2-5a.5.5 0 0 1 .11-.168zM11.207 2.5 13.5 4.793 14.793 3.5 12.5 1.207zm1.586 3L10.5 3.207 4 9.707V10h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.293zm-9.761 5.175-.106.106-1.528 3.821 3.821-1.528.106-.106A.5.5 0 0 1 5 12.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.468-.325"/>

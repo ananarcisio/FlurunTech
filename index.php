@@ -9,16 +9,11 @@
 <section id="cardcontainer">
   <div class="card">
       <form method="POST" action="insert.php">
-        <h1 id="title">CADASTRO DE FORNECEDORES</h1>
+        <h1 id="title">CADASTRO</h1>
         
         <div class="input">
-          <input name="razaosocial" type="text" required="" autocomplete="off">
-          <label for="razaosocial">Razão social</label>
-        </div>
-
-        <div class="input">
-          <input name="nomefantasia" type="text" required="" autocomplete="off">
-          <label for="nomefantasia">Nome fantasia</label>
+          <input name="empresa" type="text" required="" autocomplete="off">
+          <label for="empresa">Empresa</label>
         </div>
 
         <div class="input">
@@ -32,83 +27,18 @@
         </div>
 
         <div class="input" id="s2">
-          <input name="cnpj" type="text" required="" autocomplete="off">
-          <label for="cnpj">Cnpj</label>
+          <input name="cargo" type="text" required="" autocomplete="off">
+          <label for="cargo">Cargo</label>
         </div>
 
 
         <div class="input" id="s2">
-          <input name="endereco" type="text" required="" autocomplete="off">
-          <label for="endereco">Endereço</label>
+          <input name="nome" type="text" required="" autocomplete="off">
+          <label for="nome">nome</label>
         </div>
-
-        <div class="input">
-          <input name="numero" type="text" required="" autocomplete="off">
-          <label for="numero">Numero</label>
-        </div>
-
-        <div class="input">
-          <input name="complemento" type="text" required="" autocomplete="off">
-          <label for="complemento">Complemento</label>
-        </div>
-
-        <div class="input">
-          <input name="bairro" type="text" required="" autocomplete="off">
-          <label for="bairro">Bairro</label>
-        </div>
-
-        <div class="input">
-          <input name="cidade" type="text" required="" autocomplete="off">
-          <label for="cidade">Cidade</label>
-        </div>
-
-        <select class="form-select" aria-label="Default select example" name="UF">
-          <option selected disabled>UF</option>
-          <option value="Rondônia">RO</option>
-          <option value="Acre">AC</option>
-          <option value="Amazonas">AM</option>
-          <option value="Roraima">RR</option>
-          <option value="Pará">PA</option>
-          <option value="Amapá">AP</option>
-          <option value="Tocantins">TO</option>
-          <option value="Maranhão">MA</option>
-          <option value="Piauí">PI</option>
-          <option value="Ceará">CE</option>
-          <option value="Rio Grande do Norte">RN</option>
-          <option value="Paraíba">PB</option>
-          <option value="Pernambuco">PE</option>
-          <option value="Alagoas">AL</option>
-          <option value="Sergipe">SE</option>
-          <option value="Bahia">BA</option>
-          <option value="Minas Gerais">MG</option>
-          <option value="Espírito Santo">ES</option>
-          <option value="Rio de Janeiro">RJ</option>
-          <option value="São Paulo">SP</option>
-          <option value="Paraná">PR</option>
-          <option value="Santa Catarina">SC</option>
-          <option value="Rio Grande do Sul">RS</option>
-          <option value="Mato Grosso do Sul">MS</option>
-          <option value="Mato Grosso">MT</option>
-          <option value="Goiás">GO</option>
-          <option value="Distrito Federal">DF</option>
-        </select>
-
-        <select class="form-select" aria-label="Default select example" name="setor">
-          <option selected disabled>Setor</option>
-          <option value="Alimentação">Alimentação</option>
-          <option value="Mobiliário">Mobiliário</option>
-          <option value="Equipamentos">Equipamentos</option>
-          <option value="Recursos humanos">Recursos humanos</option>
-          <option value="Recreação">Recreação</option>
-          <option value="Artístico">Artístico</option>
-          <option value="Mídia social">Mídia social</option>
-          <option value="Estrutura">Estrutura</option>
-          <option value="Brindes">Brindes</option>
-          <option value="Decoração">Decoração</option>
-        </select>
 
         <button type="submit" name="submit"> Cadastrar </button>
-        <a href="dados.php"> <button  type="button"> Ver fornecedores </button></a>
+        <a href="dados.php"> <button  type="button"> Ver contratantes cadastrados </button></a>
       </form>
   </div>
 

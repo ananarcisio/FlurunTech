@@ -3,51 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inserir alunos</title>
+    <title>Inserir contratantes</title>
 </head>
 <body>
     <section id="cardcontainer">
     <div class="card">
     <?php
-    //Dados de conexao
+    // Dados de conexao
     $hostname = "localhost";
     $username = "root";
     $password = "";
     $database = "bdeventos";
-    $resultado;
+    $resultado = false;
     
-    //conectar
+    // Conectar
     try {
         $conn = new mysqli($hostname, $username, $password, $database);
     } catch (Exception $e) {
         die("<div id='title' role='alert'>Erro ao conectar: " . $e->getMessage() . "</div>");
     }
 
-    //Inserir dados no banco
-
-    if (empty($_POST['razaosocial']) ||empty($_POST['nomefantasia']) || empty($_POST['email']) || empty($_POST['telefone']) || empty($_POST['cnpj']) || empty($_POST['endereco']) || empty($_POST['numero']) || empty($_POST['complemento']) || empty($_POST['bairro']) || empty($_POST['cidade']) || empty($_POST['uf']) || empty($_POST['setor'])) {
+    // Inserir dados no banco
+    if (!empty($_POST['empresa']) && !empty($_POST['email']) && !empty($_POST['telefone']) && !empty($_POST['cargo']) && !empty($_POST['nome'])) {
         
-        $razaosocial = $_POST['razaosocial'];
-        $nomefantasia = $_POST['nomefantasia'];
+        $empresa = $_POST['empresa'];
         $email = $_POST['email'];
         $telefone = $_POST['telefone'];
-        $cnpj = $_POST['cnpj'];
-        $endereco = $_POST['endereco'];
-        $numero = $_POST['numero'];
-        $complemento = $_POST['complemento'];
-        $bairro = $_POST['bairro'];
-        $cidade = $_POST['cidade'];
-        $estado = $_POST['UF'];
-        $setor = $_POST['setor'];
-        
-        $sql = "INSERT INTO fornecedores VALUES (NULL, '$razaosocial', '$nomefantasia', '$email', '$telefone', '$cnpj', '$endereco', '$numero', '$complemento', '$bairro','$cidade', '$estado', '$setor')";
+        $cargo = $_POST['cargo'];
+        $nome = $_POST['nome'];
+      
+        $sql = "INSERT INTO contratantes VALUES (NULL, '$empresa', '$email', '$telefone', '$cargo', '$nome')";
         try {
             $resultado = $conn->query($sql);
-        }
-        catch (Exception $e) {
+        } catch (Exception $e) {
             echo "Erro ao cadastrar";
         }
-       
     }
 
     ?>
@@ -62,7 +52,7 @@
         </div>
     <?php endif ?>
 
-        <a href="dados.php"> <button  type="button">Ver fornecedores</button></a>
+        <a href="dados.php"> <button  type="button">Ver contratantes cadastrados</button></a>
     </div>
     </section>
 </body>
