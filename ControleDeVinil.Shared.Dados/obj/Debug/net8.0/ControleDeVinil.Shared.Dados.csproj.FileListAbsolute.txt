@@ -1,0 +1,15 @@
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.deps.json
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.dll
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.pdb
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.csproj.AssemblyReference.cache
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.AssemblyInfoInputs.cache
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.AssemblyInfo.cs
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.csproj.CoreCompileInputs.cache
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\Controle.5B678792.Up2Date
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.dll
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\refint\ControleDeVinil.Shared.Dados.dll
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.pdb
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ref\ControleDeVinil.Shared.Dados.dll

@@ -1,0 +1,257 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\ControleDeVinil.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+        "projectName": "ControleDeVinil.Shared.Dados",
+        "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+        "packagesPath": "C:\\Users\\Bot22\\.nuget\\packages\\",
+        "outputPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bot22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
+                "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
+        "projectName": "ControleDeVinil.Shared.Modelos",
+        "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
+        "packagesPath": "C:\\Users\\Bot22\\.nuget\\packages\\",
+        "outputPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bot22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\ControleDeVinil.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\ControleDeVinil.Web.csproj",
+        "projectName": "ControleDeVinil.Web",
+        "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\ControleDeVinil.Web.csproj",
+        "packagesPath": "C:\\Users\\Bot22\\.nuget\\packages\\",
+        "outputPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bot22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj": {
+                "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj"
+              },
+              "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
+                "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.5, 8.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
