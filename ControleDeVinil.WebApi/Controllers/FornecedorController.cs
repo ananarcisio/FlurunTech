@@ -34,7 +34,7 @@ namespace ControleDeVinil.WebApi.Controllers
 		}
 
 		[HttpPost]
-		public IActionResult Criar([FromBody] Fornecedor novoFornecedor)
+		public IActionResult Criar( Fornecedor novoFornecedor)
 		{
 			if (novoFornecedor == null)
 			{
@@ -47,7 +47,7 @@ namespace ControleDeVinil.WebApi.Controllers
 		}
 
 		[HttpPut("{id}")]
-		public IActionResult Atualizar(int id, [FromBody] Fornecedor fornecedorAtualizado)
+		public IActionResult Atualizar(int id, Fornecedor fornecedorAtualizado)
 		{
 			var fornecedor = FornecedorDAO.LocalizarPor(f => f.Id == id);
 			if (fornecedor == null)

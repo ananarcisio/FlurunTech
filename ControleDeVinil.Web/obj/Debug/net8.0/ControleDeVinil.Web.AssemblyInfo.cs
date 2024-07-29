@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleDeVinil.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1cd410f626aabf268dc63552b38e6a49eec0c50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+848de579228d00fc537cc595544d17be98bcdbce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleDeVinil.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleDeVinil.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

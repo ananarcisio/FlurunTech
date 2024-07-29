@@ -1082,3 +1082,4 @@ D:\Cotemig\PIT\InVents_02\ControleDeVinil.Web\obj\Debug\net8.0\ControleDeVinil.W
 D:\Cotemig\PIT\InVents_02\ControleDeVinil.Web\obj\Debug\net8.0\refint\ControleDeVinil.Web.dll
 D:\Cotemig\PIT\InVents_02\ControleDeVinil.Web\obj\Debug\net8.0\ControleDeVinil.Web.pdb
 D:\Cotemig\PIT\InVents_02\ControleDeVinil.Web\obj\Debug\net8.0\ref\ControleDeVinil.Web.dll
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Web\obj\Debug\net8.0\ControleDeVinil.Web.sourcelink.json

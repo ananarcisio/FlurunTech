@@ -8,6 +8,6 @@ namespace ControleDeVinil.Shared.Modelos.Modelos
 {
 	internal interface IAvaliacao
 	{
-		public object Alvo { get; set; }
+		public object Alvo { get; set; } 
 	}
 }

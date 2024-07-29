@@ -9,3 +9,4 @@ D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\Contro
 D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\refint\ControleDeVinil.Shared.Modelos.dll
 D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
 D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ref\ControleDeVinil.Shared.Modelos.dll
+D:\Cotemig\PIT\InVents_02\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.sourcelink.json

@@ -2,9 +2,9 @@
 {
     public class Evento
     {
-        private int Id { get; set; }
-		private string Nome { get; set; }
-		private DateTime Data { get; set; }
+        public int Id { get; set; }
+        private string Nome { get; set; }
+        private DateTime Data { get; set; }
 		private string Cidade { get; set; }
 		private string Estado { get; set; }
 		private List<string> Imagens { get; set; }

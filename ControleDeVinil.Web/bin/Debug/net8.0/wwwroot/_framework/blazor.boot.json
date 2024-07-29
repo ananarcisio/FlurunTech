@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ControleDeVinil.Web",
   "resources": {
-    "hash": "sha256-u0DUxuVp4o3stMkNpKgPsu9gB9HtrJqIWSoEkTIB0L4=",
+    "hash": "sha256-wYvHe8fvKd+eKweRE5JZSwwsJLRadHJcqBAYtGa5yF4=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.rj0z6s9r9c.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -215,14 +215,14 @@
       "mscorlib.wasm": "sha256-XvLAB5IyfVSmj5aaGnPwgVFaaZz8jXmbN8WmeopiPBM=",
       "netstandard.wasm": "sha256-TbMssdnuTiKq1gjTPkpgROAuWN0uhvPnagvWR+wAgNs=",
       "System.Private.CoreLib.wasm": "sha256-sscg+Efk8ROPq+q4IVmhShzITuoOYvB8Bsc+Mp9vcSM=",
-      "ControleDeVinil.Shared.Dados.wasm": "sha256-kQXNk+OwnqPsBJYZ/mSDxudlQwoBrGZkSI9mzzZvGic=",
-      "ControleDeVinil.Shared.Modelos.wasm": "sha256-EXw7RYq/1j9M74VYtkEgrqO0Fc5To7Uo+2IG1maXvA0=",
-      "ControleDeVinil.Web.wasm": "sha256-ACP3+VjtujMoeGihr8DI0Kq+eiCYLTo9K6+hKS3a1GM="
+      "ControleDeVinil.Shared.Dados.wasm": "sha256-qWDeRsPzSWwXbvZNq9+AtoSuA9CYIXLpDqSBVqxsnEc=",
+      "ControleDeVinil.Shared.Modelos.wasm": "sha256-pRSsgufhbtZJhqNQBx0vMZPxoI3Aycu6ksbZqTUsR+0=",
+      "ControleDeVinil.Web.wasm": "sha256-Qcl22bFVlLxkY/g/91h1ERD/i8AqUnoXB33rK+cOebY="
     },
     "pdb": {
-      "ControleDeVinil.Shared.Dados.pdb": "sha256-Rde0Pjoa28ZrJpluM/qDNYQehrLlxuc7Fkn5Cc36nvM=",
-      "ControleDeVinil.Shared.Modelos.pdb": "sha256-Y2cr6E6YqcE31uQ5EnTygFImiRjd7+W6ccw8BRUyerk=",
-      "ControleDeVinil.Web.pdb": "sha256-yoAjcuSA7LNvz/7qhXdM6/su0dCpf6rGjS94/hMBCPs="
+      "ControleDeVinil.Shared.Dados.pdb": "sha256-pkzeE7eUMIuxnVAfvN69DtId7bjEsoWkIWoT1Rml5TQ=",
+      "ControleDeVinil.Shared.Modelos.pdb": "sha256-/LO/rCK1oRcz/J1JPveQt7DsLemUvgr92+6S1IUXyps=",
+      "ControleDeVinil.Web.pdb": "sha256-k+L1bUo0Oc+bcE4GRVXb3s6DYXyckEAHMmoHWuMlFhI="
     }
   },
   "cacheBootResources": true,

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Cotemig\\PIT\\InVents_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\pages\\produtorlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\pages\\produtorlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controllers\\produtorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controllers\\produtorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\produtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\produtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BAF2A83-81E2-4C0F-81B7-31C28CB7A68E}|ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.dados\\banco\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +33,58 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BAF2A83-81E2-4C0F-81B7-31C28CB7A68E}|ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.dados\\banco\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAF2A83-81E2-4C0F-81B7-31C28CB7A68E}|ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj|solutionrelative:controledevinil.shared.dados\\banco\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\iavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\iavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.modelos\\modelos\\produtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C29B24-5AA7-4463-A211-91882B38A6F6}|ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj|solutionrelative:controledevinil.shared.modelos\\modelos\\produtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\controledevinil.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\controledevinil.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controledevinil.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|solutionrelative:controledevinil.webapi\\controledevinil.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAF2A83-81E2-4C0F-81B7-31C28CB7A68E}|ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.shared.dados\\controledevinil.shared.dados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BAF2A83-81E2-4C0F-81B7-31C28CB7A68E}|ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj|solutionrelative:controledevinil.shared.dados\\controledevinil.shared.dados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5D240A-2956-4C61-B5B5-4E06B67B1C53}|ControleDeVinil.Web\\ControleDeVinil.Web.csproj|solutionrelative:controledevinil.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}|ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj|d:\\cotemig\\pit\\invents_02\\controledevinil.webapi\\controledevinil.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -50,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,15 +118,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\Controllers\\ComentarioController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\Controllers\\ComentarioController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:08:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\Controllers\\EmpresaController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:12:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\Controllers\\EventoController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\Controllers\\EventoController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowD4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:05:08.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\Controllers\\FornecedorController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\Controllers\\FornecedorController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:36:15.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\Controllers\\NotaController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\Controllers\\NotaController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswEkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:21:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProdutorList.razor",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Pages\\ProdutorList.razor",
-              "RelativeDocumentMoniker": "ControleDeVinil.Web\\Pages\\ProdutorList.razor",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Pages\\ProdutorList.razor",
-              "RelativeToolTip": "ControleDeVinil.Web\\Pages\\ProdutorList.razor",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAAAKAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T22:08:49.248Z",
+              "Title": "ProdutorController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\ProdutorController.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\Controllers\\ProdutorController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\Controllers\\ProdutorController.cs",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\Controllers\\ProdutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:41:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:18:57.855Z",
               "EditorCaption": ""
             },
             {
@@ -87,70 +217,103 @@
               "RelativeToolTip": "ControleDeVinil.Shared.Dados\\Banco\\Contexto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T20:36:46.554Z"
+              "WhenOpened": "2024-07-07T20:36:46.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:37:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Comentario.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Comentario.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Comentario.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:39:48.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Empresa.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Empresa.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Empresa.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:39:50.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Evento.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Evento.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Evento.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:51:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAvaliacao.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\IAvaliacao.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\IAvaliacao.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\IAvaliacao.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\IAvaliacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:39:56.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Nota.cs",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Nota.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Nota.cs",
+              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:39:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Produtor.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Produtor.cs",
               "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Produtor.cs",
               "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Produtor.cs",
               "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Produtor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T20:19:02.409Z"
+              "WhenOpened": "2024-07-07T20:19:02.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Fornecedor.cs",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
-              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
-              "RelativeToolTip": "ControleDeVinil.Shared.Modelos\\Modelos\\Fornecedor.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T20:18:57.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControleDeVinil.WebApi",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
-              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
-              "RelativeToolTip": "ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-07T20:21:06.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ControleDeVinil.Web\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ControleDeVinil.Web\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T20:06:07.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "ControleDeVinil.Web\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "ControleDeVinil.Web\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T20:06:06.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ControleDeVinil.Web\\Pages\\Home.razor",
@@ -162,19 +325,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DAO.cs",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
-              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
-              "RelativeToolTip": "ControleDeVinil.Shared.Dados\\Banco\\DAO.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowAQAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T20:37:03.904Z"
+              "DocumentIndex": 15,
+              "Title": "ControleDeVinil.Web.csproj",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\ControleDeVinil.Web.csproj",
+              "RelativeDocumentMoniker": "ControleDeVinil.Web\\ControleDeVinil.Web.csproj",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\ControleDeVinil.Web.csproj",
+              "RelativeToolTip": "ControleDeVinil.Web\\ControleDeVinil.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T23:06:13.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
+              "Title": "ControleDeVinil.WebApi.csproj",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T23:06:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ControleDeVinil.Shared.Dados.csproj",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+              "RelativeDocumentMoniker": "ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+              "RelativeToolTip": "ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T23:39:34.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ControleDeVinil.WebApi",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "RelativeDocumentMoniker": "ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "RelativeToolTip": "ControleDeVinil.WebApi\\ControleDeVinil.WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T20:21:06.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ControleDeVinil.Web\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ControleDeVinil.Web\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T20:06:07.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ControleDeVinil.Web\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ControleDeVinil.Web\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T20:06:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Web\\_Imports.razor",
               "RelativeDocumentMoniker": "ControleDeVinil.Web\\_Imports.razor",

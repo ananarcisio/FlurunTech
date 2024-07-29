@@ -3,17 +3,17 @@
     public class Fornecedor
     {
 		public int Id { get; set; }
-		public string NomeFantasia { get; set; }
-		public string RazaoSocial { get; set; }
-		public int CNPJ { get; set; }
-		public string Endereco { get; set; }
-		public int Numero { get; set; }
-		public string Complemento { get; set; }
-		public string Bairro { get; set; }
-		public string Cidade { get; set; }
-		public string Estado { get; set; }
-		public string Setor { get; set; }
-		public List<Evento> EventosFornecidos{ get; set; }
+        private string NomeFantasia { get; set; }
+        private string RazaoSocial { get; set; }
+        private int CNPJ { get; set; }
+        private string Endereco { get; set; }
+        private int Numero { get; set; }
+        private string Complemento { get; set; }
+        private string Bairro { get; set; }
+        private string Cidade { get; set; }
+        private string Estado { get; set; }
+        private string Setor { get; set; }
+        private List<Evento> EventosFornecidos{ get; set; }
 
 	}
 }

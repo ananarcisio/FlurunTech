@@ -3,13 +3,13 @@
 	public class Produtor
 	{
 		public int Id { get; set; }
-		public string Nome { get; set; }
-		public Empresa Empresa { get; set; }
-		public string Email { get; set; }
-		public string Cargo { get; set; }
-		public int Telefone { get; set; }
-		public List<Produtor> Conexoes { get; set; }
-		public List<Fornecedor> FornecedoresContratados { get; set; }
+		private string Nome { get; set; }
+        private Empresa Empresa { get; set; }
+        private string Email { get; set; }
+        private string Cargo { get; set; }
+        private int Telefone { get; set; }
+        private List<Produtor> Conexoes { get; set; }
+        private List<Fornecedor> FornecedoresContratados { get; set; }
 
 	}
 }
