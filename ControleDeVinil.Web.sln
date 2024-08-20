@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleDeVinil.WabApi", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleDeVinil.WebApi", "ControleDeVinil.WebApi\ControleDeVinil.WebApi.csproj", "{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChat", "WebChat\WebChat.csproj", "{540C19A5-5964-48D9-A4FC-595126C47ABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595B2AF4-1F36-48AB-BB21-1B6333B5FD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C19A5-5964-48D9-A4FC-595126C47ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C19A5-5964-48D9-A4FC-595126C47ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C19A5-5964-48D9-A4FC-595126C47ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C19A5-5964-48D9-A4FC-595126C47ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

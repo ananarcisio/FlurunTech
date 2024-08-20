@@ -1,0 +1,12 @@
+C:\Sprint\ControleDeVinil.Shared.Modelos\bin\Debug\net7.0\ControleDeVinil.Shared.Modelos.deps.json
+C:\Sprint\ControleDeVinil.Shared.Modelos\bin\Debug\net7.0\ControleDeVinil.Shared.Modelos.dll
+C:\Sprint\ControleDeVinil.Shared.Modelos\bin\Debug\net7.0\ControleDeVinil.Shared.Modelos.pdb
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.csproj.AssemblyReference.cache
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.AssemblyInfoInputs.cache
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.AssemblyInfo.cs
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.csproj.CoreCompileInputs.cache
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.dll
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\refint\ControleDeVinil.Shared.Modelos.dll
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ControleDeVinil.Shared.Modelos.pdb
+C:\Sprint\ControleDeVinil.Shared.Modelos\obj\Debug\net7.0\ref\ControleDeVinil.Shared.Modelos.dll

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXKyLDq+CJo=",
+  "dgSpecHash": "oZk4LdCQXQDxlUV5d3IdzxRmGn/ne5ZZumpRSX3adSE+SPehjtaKAX75VpIR5Imv+7g3VvKQ0LD96FeupvycEQ==",
   "success": true,
-  "projectFilePath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Bot22\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\Bot22\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\Bot22\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Sprint\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

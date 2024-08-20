@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {}
+    "C:\\Sprint\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {}
   },
   "projects": {
-    "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
+    "C:\\Sprint\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
+        "projectUniqueName": "C:\\Sprint\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
         "projectName": "ControleDeVinil.Shared.Modelos",
-        "projectPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
-        "packagesPath": "C:\\Users\\Bot22\\.nuget\\packages\\",
-        "outputPath": "D:\\Cotemig\\PIT\\InVents_02\\ControleDeVinil.Shared.Modelos\\obj\\",
+        "projectPath": "C:\\Sprint\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj",
+        "packagesPath": "C:\\Users\\Ana Elisa\\.nuget\\packages\\",
+        "outputPath": "C:\\Sprint\\ControleDeVinil.Shared.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bot22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ana Elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,22 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "System.Net.Http.Json": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -61,12 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
