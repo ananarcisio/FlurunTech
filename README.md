@@ -1,2 +1,2 @@
 # FlurunTech
-Api na master enquanto não está completa
+Api testada, aguardando implantação do ChatBot para definições.
