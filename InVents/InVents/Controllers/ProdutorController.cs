@@ -60,7 +60,7 @@ namespace InVents.Controllers
             {
                 _context.Add(produtor);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("DetailsProdutores", "Empresa", new { id = produtor.EmpresaId });
             }
             return View(produtor);
         }

@@ -14,7 +14,7 @@ namespace InVents.Migrations
                 name: "MediaNota",
                 table: "Fornecedor",
                 type: "REAL",
-                nullable: false,
+                nullable: true,
                 defaultValue: 0.0);
         }
 

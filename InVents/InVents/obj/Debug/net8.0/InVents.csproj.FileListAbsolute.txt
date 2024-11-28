@@ -274,3 +274,4 @@ D:\Cotemig\PIT\InVents\InVents\obj\Debug\net8.0\scopedcss\Views\Empresa\Edit.csh
 D:\Cotemig\PIT\InVents\InVents\obj\Debug\net8.0\scopedcss\Views\Fornecedor\Edit.cshtml.rz.scp.css
 D:\Cotemig\PIT\InVents\InVents\obj\Debug\net8.0\scopedcss\Views\Nota\Edit.cshtml.rz.scp.css
 D:\Cotemig\PIT\InVents\InVents\obj\Debug\net8.0\scopedcss\Views\Produtor\Edit.cshtml.rz.scp.css
+D:\Cotemig\PIT\InVents\InVents\obj\Debug\net8.0\InVents.sourcelink.json

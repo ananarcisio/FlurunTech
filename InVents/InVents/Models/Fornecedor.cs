@@ -20,7 +20,7 @@ namespace InVents.Models
 
         public string? Imagem { get; set; }
 
-        public double MediaNota { get; set; }
+        public double? MediaNota { get; set; } = 0;
 
         public List<Evento>? EventosFornecidos { get; set; }
     }

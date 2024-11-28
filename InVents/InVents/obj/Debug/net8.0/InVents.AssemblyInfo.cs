@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InVents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59f75ba4577bba4557897ab5f50ce6e55cc58a60")]
 [assembly: System.Reflection.AssemblyProductAttribute("InVents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InVents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

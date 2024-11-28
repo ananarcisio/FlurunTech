@@ -47,11 +47,23 @@ namespace InVents.Controllers
 
             foreach (var fornecedor in fornecedores)
             {
-                // Calcular a média das notas
-                var mediaNota = await _context.Nota
-                                              .Where(n => n.FornecedorId == fornecedor.Id)
-                                              .AverageAsync(n => n.NotaValor ?? 0);
-                fornecedor.MediaNota = mediaNota; // Adicionar a média de nota ao objeto fornecedor
+                // Verificar se há notas para o fornecedor antes de calcular a média
+                var existeNota = await _context.Nota
+                                               .AnyAsync(n => n.FornecedorId == fornecedor.Id);
+
+                if (existeNota)
+                {
+                    // Calcular a média das notas se existirem
+                    var mediaNota = await _context.Nota
+                                                  .Where(n => n.FornecedorId == fornecedor.Id)
+                                                  .AverageAsync(n => n.NotaValor ?? 0);
+                    fornecedor.MediaNota = mediaNota; // Adicionar a média de nota ao objeto fornecedor
+                }
+                else
+                {
+                    // Definir a média como 0 se não houver notas
+                    fornecedor.MediaNota = 0;
+                }
             }
 
             return View(fornecedores);
@@ -92,8 +104,9 @@ namespace InVents.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,NomeFantasia,RazaoSocial,CNPJ,Endereco,Numero,Complemento,Bairro,Cidade,Estado,Setor,Email,Imagem")] Fornecedor fornecedor)
+        public async Task<IActionResult> Create([Bind("Id,NomeFantasia,RazaoSocial,CNPJ,Endereco,Numero,Complemento,Bairro,Cidade,Estado,Setor,Email,Imagem,MediaNota")] Fornecedor fornecedor)
         {
+
             if (ModelState.IsValid)
             {
                 _context.Add(fornecedor);
@@ -111,6 +124,7 @@ namespace InVents.Controllers
                 return NotFound();
             }
 
+
             var fornecedor = await _context.Fornecedor.FindAsync(id);
             if (fornecedor == null)
             {
@@ -124,7 +138,7 @@ namespace InVents.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,NomeFantasia,RazaoSocial,CNPJ,Endereco,Numero,Complemento,Bairro,Cidade,Estado,Setor,Email,Imagem")] Fornecedor fornecedor)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,NomeFantasia,RazaoSocial,CNPJ,Endereco,Numero,Complemento,Bairro,Cidade,Estado,Setor,Email,Imagem,MediaNota")] Fornecedor fornecedor)
         {
             if (id != fornecedor.Id)
             {
