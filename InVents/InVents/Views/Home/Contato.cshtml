@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Contato";
+}
+
+<section>
+    <div id="vazia"></div>
+    <div id="tremtudo">
+        <div id="formulario">
+
+            <form class="contact-form" action="https://formsubmit.co/invents.contato@gmail.com" method="POST">
+                <br>
+                <h2>Formulário de contato</h2>
+                <div id="boxnome">
+                    <label id="lblnome" for="nome">Primeiro nome:</label>
+                    <input id="nome" type="text">
+
+                    <label id="lblnome2" for="nome2">Sobrenome:</label>
+                    <input id="nome2" type="text">
+                </div>
+                <div id="boxinputs">
+                    <label for="email2">E-mail:</label>
+                    <input type="email" id="email2">
+
+                    <label for="subject">Assunto:</label>
+                    <input type="text" id="subject">
+
+                    <label for="Message">Messagem:</label>
+                    <textarea name="message" id="message" cols="30" rows="10" placeholder="  Escreva suas demandas aqui..." style="height: 180px;"></textarea>
+                </div>
+                <input id="btn" type="submit" value="Enviar mensagem">
+            </form>
+
+        </div>
+    </div>
+</section>

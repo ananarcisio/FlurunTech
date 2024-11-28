@@ -1,0 +1,52 @@
+﻿@model IEnumerable<InVents.Models.Empresa>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes da Empresa</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeFantasia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RazaoSocial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CNPJ)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var empresa in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => empresa.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empresa.NomeFantasia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empresa.RazaoSocial)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empresa.CNPJ)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@empresa.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@empresa.Id">Excluir</a> |
+                    <a asp-action="DetailsProdutores" asp-route-id="@empresa.Id">Ver Produtores</a> 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

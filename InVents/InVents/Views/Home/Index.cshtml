@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body>
+    
+    <section class="categories">
+        <h2>Cadastre sua Empresa/Proucure sua Empresa</h2>
+        <div class="category-cards">
+            <div class="category-card"><a class="btn" href="@Url.Action("Create", "Empresa")">Cadastrar Empresa</a></div>
+
+            <div class="category-card"><a class="btn" href="@Url.Action("Search", "Empresa")">Procurar empresa</a></div>
+
+        </div>
+    </section>
+
+    <section class="featured-properties">
+        <h2>Descubra a InVents</h2>
+        <div class="descubra">
+
+            <p>
+                Bem-vindo a Invents! Somos uma equipe dedicada a oferecer praticidade e facilidade para conectar você produtor de evento com fornecedores prezando a qualidade, confiabilidade e custo. Nossa equipe trabalha com o compromisso de proporcionar a solução para a dificuldade de encontrar fornecedores de qualidade para o seu evento.
+                Acreditamos no padrão de qualidade, na inovação, e isso reflete em tudo o que fazemos. Nosso objetivo é construir relacionamentos de confiança com nossos clientes, parceiros e colaboradores, sempre entregando resultados que superem expectativas.
+                Conte com a gente para transformar suas ideias em realidade. Juntos, podemos alcançar grandes resultados!
+            </p>
+
+        </div>
+    </section>>
+
+    <section class="categories">
+        <h2>Cadastro de Fornecedores/Proucure seus Fornecedores</h2>
+        <div class="category-cards">
+            <div class="category-card"><a class="btn" href="@Url.Action("Create", "Fornecedor")">Cadastrar Fornecedores</a></div>
+
+            <div class="category-card"><a class="btn" href="@Url.Action("Search", "Fornecedor")">Procurar Fornecedores</a></div>
+
+        </div>
+    </section>
+
+    <section class="featured-properties">
+
+        <h2>Fornecedores de várias áreas</h2>
+        <div class="property-list">
+            <div class="property-card">
+                <a href="@Url.Action("Index", "Fornecedor")">
+                    <img src="imagens/evento01.png" alt="Property Image">
+                    <div class="property-info">
+                        <h3>Espaços</h3>
+                        <p>
+                            Se você busca locais perfeitos para eventos, temos parcerias com espaços que oferecem infraestrutura completa, charme e comodidade.
+                            Seja para casamentos, festas corporativas ou encontros sociais, contamos com ambientes ideais para tornar cada ocasião memorável.
+                        </p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="property-card">
+                <a href="@Url.Action("Index", "Fornecedor")">
+                    <img src="imagens/evento02.png" alt="Property Image">
+                    <div class="property-info">
+                        <h3>Mobiliário</h3>
+                        <p>
+                            A mobília certa transforma qualquer evento. Trabalhamos com fornecedores que oferecem móveis elegantes, funcionais e adaptados a diferentes estilos e temas.
+                            Desde mesas e cadeiras até lounges sofisticados, temos o que você precisa para criar uma experiência única.
+                        </p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="property-card">
+                <a href="@Url.Action("Index", "Fornecedor")">
+                    <div class="property-list">
+                        <img src="imagens/evento03.png" alt="Property Image">
+                        <div class="property-info">
+                            <h3>Entretenimento</h3>
+                            <p>
+                                A animação do seu evento é garantida com os melhores fornecedores de entretenimento. Bandas, DJs, performances e interatividade:
+                                nossa rede inclui profissionais talentosos que irão envolver seus convidados e criar momentos inesquecíveis.
+                            </p>
+                        </div>
+                </a>
+            </div>
+    </section>
+
+    <section class="featured-properties">
+        <iframe src="https://copilotstudio.microsoft.com/environments/Default-14e4c69d-0c88-4baf-b21f-375aec973fb8/bots/crb40_agenteInVents/webchat?__version__=2" frameborder="0" style="width: 100%; height: 90vh;"></iframe>
+    </section>
+</body>

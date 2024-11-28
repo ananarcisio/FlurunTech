@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Empresa\Search.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Fornecedor\AreaFornecedor.cshtml" />
+    <Content Remove="Views\Home\Chatbot.cshtml" />
+    <Content Remove="Views\Home\Privacy.cshtml" />
+    <Content Remove="Views\Shared\_Sobre.cshtml.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Imagens\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Imagens\ana.png" />
+    <None Include="wwwroot\Imagens\background.png" />
+    <None Include="wwwroot\Imagens\banner%281%29.jfif" />
+    <None Include="wwwroot\Imagens\banner.jfif" />
+    <None Include="wwwroot\Imagens\banner2.jfif" />
+    <None Include="wwwroot\Imagens\braguinha.png" />
+    <None Include="wwwroot\Imagens\eu.png" />
+    <None Include="wwwroot\Imagens\evento01.png" />
+    <None Include="wwwroot\Imagens\evento02.png" />
+    <None Include="wwwroot\Imagens\evento03.png" />
+    <None Include="wwwroot\Imagens\evento04.png" />
+    <None Include="wwwroot\Imagens\facebook-icon.png" />
+    <None Include="wwwroot\Imagens\instagram-icon.png" />
+    <None Include="wwwroot\Imagens\isadora.png" />
+    <None Include="wwwroot\Imagens\linkedin-icon.png" />
+    <None Include="wwwroot\Imagens\logo.png" />
+    <None Include="wwwroot\Imagens\sofia.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Home\Chatbot.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Home\Chatbot.cshtml" />
+  </ItemGroup>
+
+</Project>

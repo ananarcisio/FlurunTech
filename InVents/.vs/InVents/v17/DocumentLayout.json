@@ -1,0 +1,605 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cotemig\\PIT\\InVents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\detailsprodutores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\detailsprodutores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\fornecedorescontratados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\fornecedorescontratados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\search.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\search.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\fornecedorescontratados.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\fornecedorescontratados.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\search.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\search.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\create.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\create.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\home\\contato.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\home\\contato.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bot22\\AppData\\Local\\Temp\\ebbea46c-d132-479b-a01e-471df9e16238_Contato.cshtml.css.zip.238\\Contato.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bot22\\AppData\\Local\\Temp\\35b3657b-e13b-4850-919c-78d4697a7611_Sobre.cshtml.css.zip.611\\Sobre.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\home\\sobre.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\home\\sobre.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Edit.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Edit.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswEgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:24:46.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:44:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAAPkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T00:47:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Edit.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Edit.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:27:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Edit.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\Edit.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Edit.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Produtor\\Edit.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:27:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contato.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Contato.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Home\\Contato.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Contato.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Home\\Contato.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:57:27.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Edit.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:25:59.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsProdutores.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:21:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:25:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Edit.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Edit.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:25:33.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "InVents\\Models\\Fornecedor.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "InVents\\Models\\Fornecedor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:44:59.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "InVents\\Controllers\\FornecedorController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "InVents\\Controllers\\FornecedorController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAcwH4AAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:45:22.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Index.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:47:42.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\Edit.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Edit.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Produtor\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:26:09.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FornecedoresContratados.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:31:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Edit.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Edit.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Edit.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\Edit.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:26:33.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FornecedoresContratados.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\FornecedoresContratados.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\FornecedoresContratados.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml.css",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAswA4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:22:57.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Search.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Search.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Search.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:16:02.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Create.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Create.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Create.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:12:09.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Create.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Create.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:10:23.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Index.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Index.cshtml.css",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAswA0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:08:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Search.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Search.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Search.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Search.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\Search.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:18:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Search.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:16:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Create.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Create.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Create.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:12:23.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Search.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Search.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Search.cshtml.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T01:16:57.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Create.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\Create.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Create.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Produtor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:12:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "InVents\\Controllers\\NotaController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "InVents\\Controllers\\NotaController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:03:49.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Details.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Details.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Details.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Empresa\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:19:42.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Create.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:03:34.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Index.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Index.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Index.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:02:56.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Contato.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Contato.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Home\\Contato.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Contato.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Home\\Contato.cshtml.css",
+              "ViewState": "AQIAANUAAAAAAAAAAAAuwPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T00:57:54.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contato.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\ebbea46c-d132-479b-a01e-471df9e16238_Contato.cshtml.css.zip.238\\Contato.cshtml.css",
+              "ToolTip": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\ebbea46c-d132-479b-a01e-471df9e16238_Contato.cshtml.css.zip.238\\Contato.cshtml.css [Somente Leitura]",
+              "ViewState": "AQIAANEAAAAAAAAAAAAswPQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T00:57:47.402Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sobre.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Sobre.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Home\\Sobre.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Sobre.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Home\\Sobre.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:52:56.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Sobre.cshtml.css",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Sobre.cshtml.css",
+              "RelativeDocumentMoniker": "InVents\\Views\\Home\\Sobre.cshtml.css",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Sobre.cshtml.css",
+              "RelativeToolTip": "InVents\\Views\\Home\\Sobre.cshtml.css",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAswOwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T00:53:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Sobre.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\35b3657b-e13b-4850-919c-78d4697a7611_Sobre.cshtml.css.zip.611\\Sobre.cshtml.css",
+              "ToolTip": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\35b3657b-e13b-4850-919c-78d4697a7611_Sobre.cshtml.css.zip.611\\Sobre.cshtml.css [Somente Leitura]",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAswOwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T00:53:31.813Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:43:49.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

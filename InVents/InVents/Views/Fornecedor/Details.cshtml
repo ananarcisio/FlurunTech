@@ -1,0 +1,39 @@
+﻿@model IEnumerable<InVents.Models.Fornecedor>
+
+@{
+    ViewData["Title"] = "Detalhes do Fornecedor";
+}
+
+<h1>Detalhes do Fornecedor</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Id)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().NomeFantasia)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().RazaoSocial)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().CNPJ)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fornecedor in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => fornecedor.Id)</td>
+                <td>@Html.DisplayFor(modelItem => fornecedor.NomeFantasia)</td>
+                <td>@Html.DisplayFor(modelItem => fornecedor.RazaoSocial)</td>
+                <td>@Html.DisplayFor(modelItem => fornecedor.CNPJ)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@fornecedor.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@fornecedor.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Voltar para a lista de fornecedores</a>
+    <a asp-action="Create">Cadastrar novo fornecedor</a>
+</div>

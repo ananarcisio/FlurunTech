@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml.js",
+      "PackagePath": "staticwebassets\\Views\\Shared\\_Layout.cshtml.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InVents.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InVents.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\ana.png",
+      "PackagePath": "staticwebassets\\Imagens\\ana.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\background.png",
+      "PackagePath": "staticwebassets\\Imagens\\background.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\banner(1).jfif",
+      "PackagePath": "staticwebassets\\Imagens\\banner(1).jfif"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\banner.jfif",
+      "PackagePath": "staticwebassets\\Imagens\\banner.jfif"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\banner2.jfif",
+      "PackagePath": "staticwebassets\\Imagens\\banner2.jfif"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\braguinha.png",
+      "PackagePath": "staticwebassets\\Imagens\\braguinha.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\eu.png",
+      "PackagePath": "staticwebassets\\Imagens\\eu.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\evento.png",
+      "PackagePath": "staticwebassets\\Imagens\\evento.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\evento01.png",
+      "PackagePath": "staticwebassets\\Imagens\\evento01.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\evento02.png",
+      "PackagePath": "staticwebassets\\Imagens\\evento02.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\evento03.png",
+      "PackagePath": "staticwebassets\\Imagens\\evento03.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\evento04.png",
+      "PackagePath": "staticwebassets\\Imagens\\evento04.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\facebook-icon.png",
+      "PackagePath": "staticwebassets\\Imagens\\facebook-icon.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\Imagens\\instagram-icon.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\isadora.png",
+      "PackagePath": "staticwebassets\\Imagens\\isadora.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\linkedin-icon.png",
+      "PackagePath": "staticwebassets\\Imagens\\linkedin-icon.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\logo.png",
+      "PackagePath": "staticwebassets\\Imagens\\logo.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\Imagens\\sofia.png",
+      "PackagePath": "staticwebassets\\Imagens\\sofia.png"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Cotemig\\PIT\\InVents\\InVents\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InVents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InVents.props",
+      "PackagePath": "build\\InVents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InVents.props",
+      "PackagePath": "buildMultiTargeting\\InVents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InVents.props",
+      "PackagePath": "buildTransitive\\InVents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

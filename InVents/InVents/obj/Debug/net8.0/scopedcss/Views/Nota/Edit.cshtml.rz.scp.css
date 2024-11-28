@@ -1,0 +1,83 @@
+/* Arquivo: styles.css */
+body[b-gkqrcrwon5] {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container[b-gkqrcrwon5] {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 90%;
+}
+
+h1[b-gkqrcrwon5] {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.form-group[b-gkqrcrwon5] {
+    margin-bottom: 15px;
+}
+
+label[b-gkqrcrwon5] {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+input[b-gkqrcrwon5] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[b-gkqrcrwon5] {
+    width: 100%;
+    background-color: #4C2A61;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    input:hover[b-gkqrcrwon5] {
+        background-color: #bb89b8;
+        color: black;
+    }
+
+    input a[b-gkqrcrwon5] {
+        color: white;
+    }
+
+        input a:hover[b-gkqrcrwon5] {
+            color: black;
+        }
+
+@media (max-width: 600px) {
+    .container[b-gkqrcrwon5] {
+        padding: 15px;
+    }
+
+    h1[b-gkqrcrwon5] {
+        font-size: 1.5rem;
+    }
+
+    button[b-gkqrcrwon5] {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,248 @@
+﻿/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Navbar styling */
+.navbar {
+    display: flex;
+    align-items: center;
+    top: 0;
+    z-index: 1000;
+    position: sticky;
+    /* coloquei o justify content pra alinhar os itens da nav bar */
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #4C2A61;
+}
+
+    .navbar ul {
+        list-style: none;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+
+    .navbar li {
+        margin-left: 20px;
+    }
+
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        transition: color 0.3s ease;
+    }
+
+        /* Hover effect */
+        .navbar a:hover {
+            color: #E7A145;
+        }
+
+/* Hero section */
+.hero-section {
+    position: relative;
+    height: 400px;
+    background: url('imagens/background.png') no-repeat center center/cover;
+}
+
+    .hero-section .search-bar {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+    }
+
+.search-bar input {
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+}
+
+.search-bar button {
+    padding: 10px;
+    background-color: #4C2A61;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+#formulario {
+    width: 665px;
+    height: 750px;
+    margin-left: 300px;
+}
+
+form {
+    margin-top: 00px;
+    background-color: #fff;
+}
+
+
+
+input {
+    border-radius: 10px;
+    height: 43px;
+    width: 90%;
+    border: 1px solid #ced4da;
+    background-color: transparent;
+}
+
+
+
+#boxnome label {
+    display: inline-block;
+}
+
+#nome {
+    position: relative;
+    right: 60px;
+}
+
+#lblnome {
+    position: relative;
+    bottom: 40px;
+    left: 30px;
+}
+
+#nome2 {
+    position: relative;
+    right: 10px;
+}
+
+#lblnome2 {
+    position: relative;
+    bottom: 40px;
+    left: 53px;
+}
+
+
+#boxinputs label {
+    display: block;
+    margin-left: 30px;
+}
+
+label {
+    font-size: 20px;
+}
+
+form > h2 {
+    margin-bottom: 100px;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#boxnome {
+    margin-left: 0px;
+}
+
+    #boxnome input {
+        width: 240px;
+        margin-left: -50px;
+    }
+
+#boxinputs > input {
+    margin-left: 30px;
+}
+
+#message {
+    overflow: hidden;
+    resize: vertical;
+    text-align: start;
+    border-radius: 20px;
+    height: 43px;
+    width: 90%;
+    border: 1px solid #ced4da;
+    background-color: transparent;
+    margin-left: 30px
+}
+
+textarea::placeholder {
+    text-align: left;
+    font-size: 12px;
+}
+
+#vazia {
+    width: 100px;
+    height: 60px;
+}
+
+#btn {
+    color: white;
+    background-color: #4C2A61;
+    border-color: #0d0cb5;
+    width: 164px;
+    cursor: pointer;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+    #btn:hover {
+        background-color: #bb89b8;
+        color: black;
+    }
+
+#box1 {
+    position: relative;
+    left: 1000px;
+    bottom: 750px;
+    width: 445px;
+    background-color: #fff;
+}
+
+    #box1 p {
+        margin-left: 40px;
+    }
+
+    #box1 a {
+        text-decoration: none;
+    }
+
+
+#boxbold {
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+#box2 {
+    position: relative;
+    left: 1000px;
+    bottom: 740px;
+    width: 445px;
+    background-color: #fff;
+}
+
+    #box2 p {
+        margin-left: 20px;
+    }
+
+/*#btn2 {
+    cursor: pointer;
+    color: #fff;
+    background-color: #0d0cb5;
+    border-color: #0d0cb5;
+    width: 164px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+ */

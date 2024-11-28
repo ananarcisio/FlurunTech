@@ -1,0 +1,20 @@
+﻿@model InVents.Models.Produtor
+
+@{
+    ViewData["Title"] = "Adicionar Fornecedor ao Produtor";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h3>Adicionar Fornecedor para o Produtor: @Model.Nome</h3>
+
+<form asp-action="AddFornecedor" method="post">
+    <div class="form-group">
+        <label for="fornecedorId">Selecione o Fornecedor:</label>
+        <input id="fornecedorId" name="fornecedorId" class="form-control">
+        </input>
+    </div>
+    <button type="submit" class="btn btn-primary">Adicionar Fornecedor</button>
+</form>
+
+<a asp-action="Details" asp-route-id="@Model.Id" class="btn btn-secondary mt-2">Voltar</a>

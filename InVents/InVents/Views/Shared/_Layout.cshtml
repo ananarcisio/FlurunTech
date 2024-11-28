@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - InVents</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/InVents.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="navbar">
+
+            <nav>
+                <ul>
+                    <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                    <li><a href="@Url.Action("Sobre", "Home")">Sobre</a></li>
+                    <li class="espaco"><h1>IN.VENTS</h1></li>
+                    <li><a href="@Url.Action("Contato", "Home")">Contato</a></li>
+                    <li><a href="@Url.Action("Index", "Fornecedor")">Fornecedores</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="hero-section">
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <footer class="footer">
+            <div class="footer-container">
+                <div class="footer-section">
+                    <h4>Sobre Nós</h4>
+                    <p>Bem-vindo à Invents! Conectamos produtores de eventos a fornecedores confiáveis, unindo qualidade e inovação. Nosso objetivo é facilitar sua jornada e entregar resultados que superem expectativas. Conte conosco para transformar ideias em realidade!.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contato</h4>
+                    <p>Email: contato@invents.com</p>
+                    <p>Telefone: +55 11 99999-9999</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Siga-nos</h4>
+                    <div class="social-icons">
+                        <div style="margin-top: 10px;">
+                            <a href="" target="_blank" style="margin-right: 10px;">
+                                <img class="icons" src="imagens/facebook-icon.png" alt="">
+                            </a>
+                            <a href="" target="_blank" style="margin-right: 10px;">
+                                <img class="icons" src="imagens/linkedin-icon.png" alt="">
+                            </a>
+                            <a href="" target="_blank">
+                                <img class="icons" src="imagens/instagram-icon.png" alt="">
+                            </a>
+
+                            <div class="footer-bottom">
+                                <p>&copy; 2024 Exemplo. Todos os direitos reservados.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <img src="~/Imagens/logo.png" alt="Alternate Text" />
+        </footer>
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<InVents.Models.Fornecedor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section class="featured-properties">
+    <h2>Fornecedores</h2>
+    <div class="property-list">
+        @foreach (var item in Model)
+        {
+            <div class="property-card">
+                <img src="@item.Imagem" alt="Fornecedor Image">
+                <div class="property-info">
+                    <h3>@item.NomeFantasia</h3>
+                    <p>Email: @item.Email</p>
+                    <p>Cidade: @item.Cidade, Estado: @item.Estado</p>
+                    <p>Setor: @item.Setor</p>
+                    <p>Nota média: @(item.MediaNota > 0 ? item.MediaNota.ToString("F2") : "Sem avaliação")</p> 
+                    <button><a href="@Url.Action("Create", "Nota")"> Avaliar</a></button>
+                </div>
+            </div>
+        }
+    </div>
+</section>

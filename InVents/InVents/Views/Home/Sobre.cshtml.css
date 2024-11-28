@@ -1,0 +1,236 @@
+﻿/* Basic Reset */
+* {
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Navbar styling */
+.navbar {
+    display: flex;
+    align-items: center;
+    top: 0;
+    z-index: 1000;
+    position: sticky;
+    /* coloquei o justify content pra alinhar os itens da nav bar */
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #4C2A61;
+}
+
+    .navbar ul {
+        list-style: none;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+
+    .navbar li {
+        margin-left: 20px;
+    }
+
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        transition: color 0.3s ease;
+    }
+
+        /* Hover effect */
+        .navbar a:hover {
+            color: #E7A145;
+        }
+
+/* Hero section */
+.hero-section {
+    position: relative;
+    height: 400px;
+}
+
+    .hero-section .search-bar {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+    }
+
+.search-bar input {
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+}
+
+.search-bar button {
+    padding: 10px;
+    background-color: #4C2A61;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Category Section */
+.categories {
+    text-align: center;
+    padding: 40px;
+}
+
+    .categories h2 {
+        margin-bottom: 30px;
+    }
+
+.category-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.category-card {
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #4C2A61;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+    /* Hover effect */
+    .category-card:hover {
+        transform: scale(1.05);
+        background-color: #E7A145;
+    }
+
+/* Featured Properties Section */
+.featured-properties {
+    padding: 40px;
+}
+
+    .featured-properties h2 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+.property-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.property-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .property-card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .property-card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+.property-info {
+    padding: 10px;
+}
+
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .category-cards, .property-list {
+        flex-direction: column;
+    }
+
+    .search-bar {
+        flex-direction: column;
+    }
+
+        .search-bar input {
+            margin-bottom: 10px;
+        }
+}
+
+/* Estilo geral */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Footer */
+.footer {
+    background-color: #4C2A61;
+    color: #fff;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Seções do footer */
+.footer-section {
+    flex: 1 1 200px;
+    max-width: 300px;
+}
+
+    .footer-section h4 {
+        margin-bottom: 10px;
+        font-size: 18px;
+        color: white;
+    }
+
+    .footer-section p {
+        font-size: 14px;
+        line-height: 1.6;
+        color: #ccc;
+    }
+
+/* Ícones sociais */
+.social-icons a {
+    margin: 0 5px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.icons {
+    width: 30px; /* Adicione a unidade de medida (px) */
+}
+
+
+.social-icons a:hover {
+    color: white;
+    transform: scale(1.1);
+}
+
+/* Footer inferior */
+.footer-bottom {
+    margin-top: 20px;
+    border-top: 1px solid white;
+    padding-top: 10px;
+    font-size: 14px;
+    color: #bbb;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}

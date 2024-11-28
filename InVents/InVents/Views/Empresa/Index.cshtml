@@ -1,0 +1,11 @@
+﻿@model IEnumerable<InVents.Models.Empresa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Empresa</h1>
+
+<a class="btn btn-primary btn-lg" href="@Url.Action("Search", "Empresa")">Procurar empresa</a>
+<a class="btn btn-secondary btn-lg" href="@Url.Action("Create", "Empresa")">Criar empresa</a>
+
