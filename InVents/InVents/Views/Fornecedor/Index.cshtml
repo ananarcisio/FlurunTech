@@ -17,9 +17,12 @@
                     <p>Cidade: @item.Cidade, Estado: @item.Estado</p>
                     <p>Setor: @item.Setor</p>
                     <p>Nota média: @(item.MediaNota?.ToString("0.0") ?? "Sem avaliação")</p>
-                    <button><a href="@Url.Action("Create", "Nota")"> Avaliar</a></button>
+                    <button>
+                        <a href="@Url.Action("Create", "Nota", new { fornecedorId = @item.Id })">Avaliar</a>
+                    </button>
                 </div>
             </div>
         }
     </div>
 </section>
+>

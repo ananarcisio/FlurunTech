@@ -44,8 +44,10 @@ namespace InVents.Controllers
         }
 
         // GET: Nota/Create
-        public IActionResult Create()
+        public IActionResult Create(int? fornecedorId)
         {
+            // Utilize o fornecedorId para lógica necessária, como pré-preencher o campo FornecedorId.
+            ViewBag.FornecedorId = fornecedorId;
             return View();
         }
 

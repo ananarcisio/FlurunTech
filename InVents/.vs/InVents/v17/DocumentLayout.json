@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\fornecedorescontratados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\migrations\\20241125220945_inventsfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\migrations\\20241125220945_inventsfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\controllers\\produtorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\controllers\\produtorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\edit.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -123,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\fornecedorescontratados.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\fornecedor\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\fornecedor\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\empresa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -137,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\produtor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\produtor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\nota\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|solutionrelative:invents\\views\\nota\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F92BBE-C747-4D5A-90FC-6CBEF6F90E0A}|InVents\\InVents.csproj|d:\\cotemig\\pit\\invents\\invents\\views\\empresa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -184,7 +188,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -200,20 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InVentsContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\InVentsContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "InVents\\Migrations\\InVentsContextModelSnapshot.cs",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\InVentsContextModelSnapshot.cs",
-              "RelativeToolTip": "InVents\\Migrations\\InVentsContextModelSnapshot.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:06:50.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Create.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Create.cshtml",
@@ -221,38 +212,36 @@
               "RelativeToolTip": "InVents\\Views\\Fornecedor\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:12:23.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:12:23.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InVentsContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\InVentsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InVents\\Migrations\\InVentsContextModelSnapshot.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\InVentsContextModelSnapshot.cs",
+              "RelativeToolTip": "InVents\\Migrations\\InVentsContextModelSnapshot.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:06:50.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml",
-              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Index.cshtml",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml",
-              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:47:42.022Z",
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "InVents\\Controllers\\NotaController.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "InVents\\Controllers\\NotaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:03:49.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Edit.cshtml",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml",
-              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Edit.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:25:15.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Edit.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\Edit.cshtml",
@@ -260,7 +249,31 @@
               "RelativeToolTip": "InVents\\Views\\Produtor\\Edit.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:26:09.512Z",
+              "WhenOpened": "2024-11-28T01:26:09.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:25:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Index.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:47:42.022Z",
               "EditorCaption": ""
             },
             {
@@ -271,14 +284,66 @@
               "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
               "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
               "RelativeToolTip": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T01:31:43.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Search.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:16:25.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Edit.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:25:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml",
+              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Create.cshtml",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml",
+              "RelativeToolTip": "InVents\\Views\\Nota\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:03:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241125220945_InVentsFirstMigration.cs",
+              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\20241125220945_InVentsFirstMigration.cs",
+              "RelativeDocumentMoniker": "InVents\\Migrations\\20241125220945_InVentsFirstMigration.cs",
+              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\20241125220945_InVentsFirstMigration.cs",
+              "RelativeToolTip": "InVents\\Migrations\\20241125220945_InVentsFirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:57:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "InVentsContext-541f7375-4e9b-41aa-8a11-56ce24044e0b.db",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\InVentsContext-541f7375-4e9b-41aa-8a11-56ce24044e0b.db",
               "RelativeDocumentMoniker": "InVents\\InVentsContext-541f7375-4e9b-41aa-8a11-56ce24044e0b.db",
@@ -289,20 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NotaController.cs",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\NotaController.cs",
-              "RelativeDocumentMoniker": "InVents\\Controllers\\NotaController.cs",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\NotaController.cs",
-              "RelativeToolTip": "InVents\\Controllers\\NotaController.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAADwv0EAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T01:03:49.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "FornecedorController.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\FornecedorController.cs",
               "RelativeDocumentMoniker": "InVents\\Controllers\\FornecedorController.cs",
@@ -310,12 +362,11 @@
               "RelativeToolTip": "InVents\\Controllers\\FornecedorController.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAIwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T01:45:22.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:45:22.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Models\\Fornecedor.cs",
               "RelativeDocumentMoniker": "InVents\\Models\\Fornecedor.cs",
@@ -323,12 +374,11 @@
               "RelativeToolTip": "InVents\\Models\\Fornecedor.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T01:44:59.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:44:59.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ProdutorController.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Controllers\\ProdutorController.cs",
               "RelativeDocumentMoniker": "InVents\\Controllers\\ProdutorController.cs",
@@ -336,12 +386,11 @@
               "RelativeToolTip": "InVents\\Controllers\\ProdutorController.cs",
               "ViewState": "AQIAAMAAAAAAAAAAAAAiwD4AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:35:47.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T10:35:47.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "20241128014928_ProdutorAlteradoDNVMigracao.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\20241128014928_ProdutorAlteradoDNVMigracao.cs",
               "RelativeDocumentMoniker": "InVents\\Migrations\\20241128014928_ProdutorAlteradoDNVMigracao.cs",
@@ -349,12 +398,11 @@
               "RelativeToolTip": "InVents\\Migrations\\20241128014928_ProdutorAlteradoDNVMigracao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:06:40.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T11:06:40.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Nota.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Models\\Nota.cs",
               "RelativeDocumentMoniker": "InVents\\Models\\Nota.cs",
@@ -362,12 +410,11 @@
               "RelativeToolTip": "InVents\\Models\\Nota.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:17:39.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T11:17:39.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "20241127230725_mediaNotaAlteradoMigracao.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\20241127230725_mediaNotaAlteradoMigracao.cs",
               "RelativeDocumentMoniker": "InVents\\Migrations\\20241127230725_mediaNotaAlteradoMigracao.cs",
@@ -375,12 +422,11 @@
               "RelativeToolTip": "InVents\\Migrations\\20241127230725_mediaNotaAlteradoMigracao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:07:38.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T11:07:38.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "20241127233404_ProdutorAlteradoMigracao.cs",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Migrations\\20241127233404_ProdutorAlteradoMigracao.cs",
               "RelativeDocumentMoniker": "InVents\\Migrations\\20241127233404_ProdutorAlteradoMigracao.cs",
@@ -388,12 +434,11 @@
               "RelativeToolTip": "InVents\\Migrations\\20241127233404_ProdutorAlteradoMigracao.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:07:19.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T11:07:19.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Create.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Create.cshtml.css",
@@ -401,12 +446,11 @@
               "RelativeToolTip": "InVents\\Views\\Fornecedor\\Create.cshtml.css",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAFYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-28T10:57:14.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T10:57:14.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Edit.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Edit.cshtml",
@@ -414,12 +458,11 @@
               "RelativeToolTip": "InVents\\Views\\Empresa\\Edit.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:25:33.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:25:33.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Details.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Details.cshtml",
@@ -427,12 +470,11 @@
               "RelativeToolTip": "InVents\\Views\\Empresa\\Details.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:19:42.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:19:42.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Edit.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Edit.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Edit.cshtml.css",
@@ -440,12 +482,11 @@
               "RelativeToolTip": "InVents\\Views\\Fornecedor\\Edit.cshtml.css",
               "ViewState": "AQIAAEUAAAAAAAAAAAAswFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-28T01:24:46.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:24:46.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Shared\\_Layout.cshtml",
@@ -457,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "DetailsProdutores.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
@@ -465,24 +506,11 @@
               "RelativeToolTip": "InVents\\Views\\Empresa\\DetailsProdutores.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:21:08.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T01:21:08.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Edit.cshtml",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml",
-              "RelativeToolTip": "InVents\\Views\\Nota\\Edit.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:25:59.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Contato.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Contato.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Home\\Contato.cshtml",
@@ -494,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Edit.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\Edit.cshtml.css",
@@ -506,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Edit.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Edit.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Edit.cshtml.css",
@@ -518,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Shared\\_Layout.cshtml.css",
@@ -530,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Edit.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Edit.cshtml.css",
@@ -542,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "FornecedoresContratados.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\FornecedoresContratados.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\FornecedoresContratados.cshtml.css",
@@ -554,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Search.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Search.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Search.cshtml",
@@ -566,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Create.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Create.cshtml",
@@ -578,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Create.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Create.cshtml.css",
@@ -590,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Index.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Index.cshtml.css",
@@ -602,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Search.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Empresa\\Search.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Empresa\\Search.cshtml.css",
@@ -615,18 +643,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml",
-              "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Search.cshtml",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml",
-              "RelativeToolTip": "InVents\\Views\\Fornecedor\\Search.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:16:25.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "Search.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Fornecedor\\Search.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Fornecedor\\Search.cshtml.css",
@@ -638,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Produtor\\Create.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Produtor\\Create.cshtml",
@@ -650,19 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml",
-              "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Create.cshtml",
-              "ToolTip": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Create.cshtml",
-              "RelativeToolTip": "InVents\\Views\\Nota\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T01:03:34.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Nota\\Index.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Nota\\Index.cshtml",
@@ -674,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Contato.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Contato.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Home\\Contato.cshtml.css",
@@ -686,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Contato.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\ebbea46c-d132-479b-a01e-471df9e16238_Contato.cshtml.css.zip.238\\Contato.cshtml.css",
               "ToolTip": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\ebbea46c-d132-479b-a01e-471df9e16238_Contato.cshtml.css.zip.238\\Contato.cshtml.css [Somente Leitura]",
@@ -697,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Sobre.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Sobre.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Home\\Sobre.cshtml",
@@ -709,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Sobre.cshtml.css",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Sobre.cshtml.css",
               "RelativeDocumentMoniker": "InVents\\Views\\Home\\Sobre.cshtml.css",
@@ -721,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Sobre.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\35b3657b-e13b-4850-919c-78d4697a7611_Sobre.cshtml.css.zip.611\\Sobre.cshtml.css",
               "ToolTip": "C:\\Users\\Bot22\\AppData\\Local\\Temp\\35b3657b-e13b-4850-919c-78d4697a7611_Sobre.cshtml.css.zip.611\\Sobre.cshtml.css [Somente Leitura]",
@@ -732,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Cotemig\\PIT\\InVents\\InVents\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "InVents\\Views\\Home\\Index.cshtml",
